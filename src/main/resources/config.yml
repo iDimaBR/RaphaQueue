@@ -1,0 +1,10 @@
+delayToJoin: 10
+minPlayersToHaveQueue: 300
+permissionVIP: queue.vip
+serverName: "survival"
+
+Messages:
+  Connecting: "&aYEAAH! Estamos conectando ao servidor..."
+  Queue: "&aSua posição atual na fila é &f#%position%"
+  EnterQueue: "&aVocê foi adicionado a fila. Sua posição é &f#%position%"
+  VIPBypass: "&aComo você é um jogador VIP, não há necessidade de esperar na fila..."

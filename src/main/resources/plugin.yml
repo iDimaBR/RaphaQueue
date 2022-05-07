@@ -1,0 +1,5 @@
+name: RaphaQueue
+version: '${project.version}'
+main: com.github.idimabr.raphaqueue.RaphaQueue
+api-version: 1.18
+authors: [ iDimaBR ]
